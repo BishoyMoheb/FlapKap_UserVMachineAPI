@@ -1,0 +1,12 @@
+C:\Users\Bishoy Moheb\Documents\Visual Studio 2019\Proj 2019\FlapKap_UserVMachineAPI\FUser.CLDomain\bin\Debug\net5.0\FUser.CLDomain.deps.json
+C:\Users\Bishoy Moheb\Documents\Visual Studio 2019\Proj 2019\FlapKap_UserVMachineAPI\FUser.CLDomain\bin\Debug\net5.0\FUser.CLDomain.dll
+C:\Users\Bishoy Moheb\Documents\Visual Studio 2019\Proj 2019\FlapKap_UserVMachineAPI\FUser.CLDomain\bin\Debug\net5.0\ref\FUser.CLDomain.dll
+C:\Users\Bishoy Moheb\Documents\Visual Studio 2019\Proj 2019\FlapKap_UserVMachineAPI\FUser.CLDomain\bin\Debug\net5.0\FUser.CLDomain.pdb
+C:\Users\Bishoy Moheb\Documents\Visual Studio 2019\Proj 2019\FlapKap_UserVMachineAPI\FUser.CLDomain\obj\Debug\net5.0\FUser.CLDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bishoy Moheb\Documents\Visual Studio 2019\Proj 2019\FlapKap_UserVMachineAPI\FUser.CLDomain\obj\Debug\net5.0\FUser.CLDomain.AssemblyInfoInputs.cache
+C:\Users\Bishoy Moheb\Documents\Visual Studio 2019\Proj 2019\FlapKap_UserVMachineAPI\FUser.CLDomain\obj\Debug\net5.0\FUser.CLDomain.AssemblyInfo.cs
+C:\Users\Bishoy Moheb\Documents\Visual Studio 2019\Proj 2019\FlapKap_UserVMachineAPI\FUser.CLDomain\obj\Debug\net5.0\FUser.CLDomain.csproj.CoreCompileInputs.cache
+C:\Users\Bishoy Moheb\Documents\Visual Studio 2019\Proj 2019\FlapKap_UserVMachineAPI\FUser.CLDomain\obj\Debug\net5.0\FUser.CLDomain.dll
+C:\Users\Bishoy Moheb\Documents\Visual Studio 2019\Proj 2019\FlapKap_UserVMachineAPI\FUser.CLDomain\obj\Debug\net5.0\ref\FUser.CLDomain.dll
+C:\Users\Bishoy Moheb\Documents\Visual Studio 2019\Proj 2019\FlapKap_UserVMachineAPI\FUser.CLDomain\obj\Debug\net5.0\FUser.CLDomain.pdb
+C:\Users\Bishoy Moheb\Documents\Visual Studio 2019\Proj 2019\FlapKap_UserVMachineAPI\FUser.CLDomain\obj\Debug\net5.0\FUser.CLDomain.csproj.AssemblyReference.cache
